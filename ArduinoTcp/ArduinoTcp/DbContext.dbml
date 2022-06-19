@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ArduinoProject" Class="DbContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-QV047VS;Initial Catalog=ArduinoProject;Integrated Security=True" SettingsObjectName="ArduinoTcp.Properties.Settings" SettingsPropertyName="ArduinoProjectConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.DataLog" Member="DataLogs">
+    <Type Name="DataLog">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Value1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Value2" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Value3" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Value4" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Value5" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,7 @@
+C:\Users\android\source\repos\ArduinoTcp\ArduinoTcp\bin\Debug\ArduinoTcp.exe.config
+C:\Users\android\source\repos\ArduinoTcp\ArduinoTcp\bin\Debug\ArduinoTcp.exe
+C:\Users\android\source\repos\ArduinoTcp\ArduinoTcp\bin\Debug\ArduinoTcp.pdb
+C:\Users\android\source\repos\ArduinoTcp\ArduinoTcp\obj\Debug\ArduinoTcp.csproj.AssemblyReference.cache
+C:\Users\android\source\repos\ArduinoTcp\ArduinoTcp\obj\Debug\ArduinoTcp.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\ArduinoTcp\ArduinoTcp\obj\Debug\ArduinoTcp.exe
+C:\Users\android\source\repos\ArduinoTcp\ArduinoTcp\obj\Debug\ArduinoTcp.pdb
